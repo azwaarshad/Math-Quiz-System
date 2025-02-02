@@ -1,4 +1,4 @@
-;Quiz Masters By Azwa Arshad, Waleha Batool, Syed Hani Rizvi
+;Quiz Masters By Azwa Arshad
 
  ;===============================printing function for string =================================  
 print macro p1     
